@@ -1,0 +1,4 @@
+github.com/dexterlb/mpvipc v0.0.0-20241005113212-7cdefca0e933 h1:r4hxcT6GBIA/j8Ox4OXI5MNgMKfR+9plcAWYi1OnmOg=
+github.com/dexterlb/mpvipc v0.0.0-20241005113212-7cdefca0e933/go.mod h1:RkQWLNITKkXHLP7LXxZSgEq+uFWU25M5qW7qfEhL9Wc=
+gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce h1:+JknDZhAj8YMt7GC73Ei8pv4MzjDUNPHgQWJdtMAaDU=
+gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce/go.mod h1:5AcXVHNjg+BDxry382+8OKon8SEWiKktQR07RKPsv1c=
