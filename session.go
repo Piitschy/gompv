@@ -80,6 +80,9 @@ func (s *Session) AddGlobalAudioFilter(operator string) error {
 	if len(s.audios) == 0 {
 		return fmt.Errorf("no audio sources available to add global audio filter")
 	}
+	if len(s.audios) == 1 {
+		return fmt.Errorf("global audio filter requires at least two audio sources")
+	}
 	filter := NewFilter(operator)
 	// Set the target of the filter to "ao" for global audio processing
 	filter.SetTarget("ao")
