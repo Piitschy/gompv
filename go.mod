@@ -1,4 +1,4 @@
-module github.com/Piitschy/gompv
+module github.com/piitschy/gompv
 
 go 1.24.4
 

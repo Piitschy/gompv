@@ -5,7 +5,7 @@ Toolbox to automate MPV media player. Builds on top of the [mpvipc](https://gith
 ## Installation
 
 ```bash
-go get github.com/piitschy/go-mpv
+go get github.com/piitschy/gompv
 ```
 
 ## Usage
